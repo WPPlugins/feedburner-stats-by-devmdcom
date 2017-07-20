@@ -1,0 +1,48 @@
+h3.devmdfbstats{
+	font: italic 18px/28px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	margin: 0;
+	padding: 0px 15px 3px 0;
+	text-shadow: 0 1px 0 #FFFFFF;
+}
+span.devmdfbstats_subscribers{
+	font: italic 24px/35px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	color: #0066FF;
+	padding-top: 0px;
+}
+span.devmdfbstats_hits{
+	font: italic 24px/35px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	color: #00CC00;
+	padding-top: 0px;
+}
+span.devmdfbstats_reach{
+	font: italic 24px/35px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	color: #FF0000;
+	padding-top: 0px;
+}
+
+.devmdfbstats_numberRowClicks{
+	text-align: right !important;
+	font: italic 16px/20px Georgia,"Times New Roman","Bitstream Charter",Times,serif !important;
+	color: #0066FF !important;
+}
+.devmdfbstats_numberRowViews{
+	text-align: right !important;
+	font: italic 16px/20px Georgia,"Times New Roman","Bitstream Charter",Times,serif !important;
+}
+
+span.devmdfbstats_status_up{
+	background: url('u.png') right center no-repeat transparent;
+	padding-right: 20px;
+}
+span.devmdfbstats_status_down{
+	background: url('d.png') right center no-repeat transparent;
+	padding-right: 20px;
+}
+span.devmdfbstats_status_0{
+	background: url('s.png') right center no-repeat transparent;
+	padding-right: 20px;
+}
+.devmdfbstats_al_right{
+	text-align: right !important;
+	color: #999;
+}
